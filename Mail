@@ -1,0 +1,11 @@
+telnet smtp.mines-albi.fr 25
+VRFY gaborit@mines-albi
+EXPN eleves
+MAIL FROM: chamon@mines-albi.fr
+RCPT TO: ......@mines-albi.fr
+DATA
+
+Date :
+Subject:
+QUIT
+
